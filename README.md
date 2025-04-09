@@ -24,7 +24,7 @@ Mini-games include:
 ## How to Run
 
 1. Clone this repository: git clone https://github.com/AkshayaJeyaram/maze-of-mysteries.git cd maze-of-mysteries
-2. 2. Make sure `intro.txt` is in the same folder as `maze_game.py`.
+2. Make sure `intro.txt` is in the same folder as `maze_game.py`.
 3. Run the game: python maze_game.py
 
 **Requires Python 3**
